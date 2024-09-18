@@ -1,8 +1,8 @@
-##### IDS2024F
 
-  **IDS2024F, INTRODUCTION TO DATA SCIENCE, FALL 2024**       
-This project contains all my activities related to DATA 1301: Intro to Data Science
+# IDS2024F
+  **IDS2024F, Introduction To Data Science, Fall 2024**  
 ---
+**This project contains all my activities related to DATA 1301: Intro to Data Science**  
 **Name:** Angela R Donguia  
 **SCHOOL ID:** 1002006964  
 **EMAIL:**  axd6964@mavs.uta.edu    
@@ -11,7 +11,7 @@ This project contains all my activities related to DATA 1301: Intro to Data Scie
 **LEVEL:** Senior/undegraduate  
 **POSITION TITLE:** Full time Student/employed  
 **COURSE WEBPAGE:** https://www.cdslab.org/IDS2024F    
-**PHOTO:**  ![WhatsApp Image 2024-02-17 at 23 13 11_0b12550e](https://github.com/AngelaDonguia/IDS2024S/assets/89665076/53e24548-d40b-4b10-919a-5ee48440c5af)
+**PHOTO:**  ![image](https://github.com/user-attachments/assets/61a26a86-69da-4a41-85cd-786e3e133c01)
 
 #####  Description of the project’s content  
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA-1301. The structure of the project is the following:
