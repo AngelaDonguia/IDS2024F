@@ -1,7 +1,9 @@
-1.
+1
+
+2.
    Empiricism, Theoretical Frameworks, Reproductability and Peer Review
 
-2. 
+3. 
 * Finanace: Data Science is applied to analyze market trends, manage risks, and automate trading strategies. Big data analytics and machine learning models can predict stock market movements, evaluate investment risks, and optimize portfolios.
 * Economics: Computational models help in analyzing economic policies, forecasting economic conditions, and understanding complex economic systems through the analysis of vast amounts of financial data.
 * Healthcare: Computational and data sciences are used for predicting disease outbreaks, personalizing medical treatments, and improving diagnostic accuracy.
