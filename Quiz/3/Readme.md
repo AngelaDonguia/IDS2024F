@@ -8,13 +8,13 @@
 * Economics: Computational models help in analyzing economic policies, forecasting economic conditions, and understanding complex economic systems through the analysis of vast amounts of financial data.
 * Healthcare: Computational and data sciences are used for predicting disease outbreaks, personalizing medical treatments, and improving diagnostic accuracy.
 
-3. 
+4. 
 * Inductive Reasoning: Involves making generalizations based on observing specific instances. Example: Every cat I have seen has four legs. My friend's cat has four legs. The cat in the book also has four legs. Therefore, all cats have four legs. This conclusion is probable, except that there might exist a cat that does not fit this generalization due to mutation or injury.
 * Deductive Reasoning: Involves starting with a hypothesis and examining the possibilities to reach a specific, logical conclusion. Example: All birds have feathers. A penguin is a bird. Therefore, a penguin has feathers. If the premises are true, the conclusion must also be true. It provides a conclusive proof, assuming the premises are accurate.
 
-4. 
-Example: "If the ground is wet (A), then it has rained recently (B)." However, the wet ground could be due to other causes besides rain, such as a sprinkler system, a spilled bucket of water, or even morning dew. The presence of a wet ground (A) does not physically cause the rain (B); rather, it's merely associated with one possible cause of the wetness.
 5. 
+Example: "If the ground is wet (A), then it has rained recently (B)." However, the wet ground could be due to other causes besides rain, such as a sprinkler system, a spilled bucket of water, or even morning dew. The presence of a wet ground (A) does not physically cause the rain (B); rather, it's merely associated with one possible cause of the wetness.
+6. 
 * Proposition A: If an alarm is sounding at a jewelry store, then a burglary may be occurring. A → B (A is the alarm sounding, B is a possible burglary.)
 * Proposition B: If a person is seen exiting a store with a broken window carrying a bag at night, then they are likely involved in the burglary. C → D (Where C is a person exiting through a broken window with a bag at night, D is the likelihood of involvement in a burglary.)
 * Proposition C: If someone is involved in a burglary, then they are committing a crime. D → E (Where D is involvement in a burglary, E is committing a crime.)
