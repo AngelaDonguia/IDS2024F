@@ -1,4 +1,4 @@
-1)Empiricism, Theoretical Frameworks, Reproductability and Peer Review
+1) Empiricism, Theoretical Frameworks, Reproductability and Peer Review
 
 2) Finanace: Data Science is applied to analyze market trends, manage risks, and automate trading strategies.
 Big data analytics and machine learning models can predict stock market movements, evaluate investment risks, and optimize portfolios.
