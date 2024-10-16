@@ -1,5 +1,7 @@
 1.
     1. Define a Question to Investigate · 2. Make Predictions · 3. Gather Data · 4. Analyze the Data · 5. Draw Conclusions.
+  
+       
   2
    Empiricism, Theoretical Frameworks, Reproductability and Peer Review
 
@@ -23,6 +25,7 @@ No, logical implication and physical causation are not the same. While they can 
 
 8.
    Boolean algebra is named after George Boole, an English mathematician and logician
+  
 
   11.
      both propositions will yield true or false results consistently across all scenarios.
