@@ -1,17 +1,9 @@
-1)
-1. **Observation**: Gather data and notice patterns or phenomena.
-2. **Question**: Pose a specific research question based on observations.
-3. **Hypothesis Formation**: Create a testable hypothesis to explain the observations.
-4. **Experimentation**: Design and conduct experiments to test the hypothesis.
-5. **Data Analysis**: Analyze the results to determine if they support or refute the hypothesis.
-6. **Conclusion**: Draw conclusions based on the analysis and determine the validity of the hypothesis.
-7. **Communication**: Share findings with the scientific community for review and further exploration.
-8. **Re-evaluation**: Revise hypotheses or theories based on new evidence or feedback.
-
-2.
+1.
+    1. Define a Question to Investigate · 2. Make Predictions · 3. Gather Data · 4. Analyze the Data · 5. Draw Conclusions.
+  2
    Empiricism, Theoretical Frameworks, Reproductability and Peer Review
 
-3. 
+3 
 * Finanace: Data Science is applied to analyze market trends, manage risks, and automate trading strategies. Big data analytics and machine learning models can predict stock market movements, evaluate investment risks, and optimize portfolios.
 * Economics: Computational models help in analyzing economic policies, forecasting economic conditions, and understanding complex economic systems through the analysis of vast amounts of financial data.
 * Healthcare: Computational and data sciences are used for predicting disease outbreaks, personalizing medical treatments, and improving diagnostic accuracy.
