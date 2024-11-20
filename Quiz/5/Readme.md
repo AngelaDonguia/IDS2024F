@@ -1,4 +1,4 @@
-Express the mathematical meaning of π(A|B) -"The probability of ( A ) given ( B )." The meaning of Pi is that it represents probability in a specific notation.The meaning of | is that it indicates "given that," denoting conditional probability.
+Express the mathematical meaning of π(A|B) -"The probability of ( A ) given ( B )." Pi represents probability in a specific notation.The meaning of | is "given that," denotes conditional probability.
 #2)Name four major historical definitions of Probability.- Classical Probability, Bayesian Probability, Frequentist Probability and Propensity.
 #3 Which school(s) of thought define probability as the degree of belief? 1. Classical and Bayesian Probability.
 #4
