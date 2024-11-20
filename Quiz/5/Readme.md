@@ -46,6 +46,8 @@ Polar coordinates can be useful for data of a periodic nature, such that data va
 
 Accent color scale.
 
-The graph/ visualization is not labelled well- No header for the graph. the diagonal representation of the movie names makes it ugly.
+The graph is not well labelled and theres no header.
 
-a. Increase. b. 3 degrees hotter.
+a. Increase. b. 5 degrees hotter.
+
+
