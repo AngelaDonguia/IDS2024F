@@ -6,47 +6,30 @@ Which school(s) of thought define probability as the relative frequency of occur
 #5
 Which probability definition(s), among those we have discussed in class, allow defining the Probability of the existence of God? Why?-Bayesian definition allows it to be based on degrees of belief or prior knowledge. It doesn't require empirical frequency or repeatable experiments.
 #6
-Is Bayesian Inference a subset of the Frequentist Inference methods? Why? No, Bayesian incorporates prior beliefs and updating probabilities with proof,Frequentist methods rely solely on observed data without prior beliefs.
+Is Bayesian Inference a subset of the Frequentist Inference methods? Why? No, Bayesian incorporates prior beliefs and updating probabilities with proof,Frequentist methods rely solely on observed data.
 #7
 Which inference methodology allows the inclusion of expert knowledge in data analysis and decision-making? Bayesian inference
 #8
 Why is Bayesian Probability Theory more popular among physicists and engineers and Frequentist Probability Theory more popular among Biologists and Social Scientists? The methods experiments are one-off or irreproducible and they align with many problems in physics and engineering.
 #9
-When did the first modern definition of Probability appear in history?
+When did the first modern definition of Probability appear in history? Mid-20th century.
+10
 What kinds of uncertainty exist in our experiments? confidence Strips,eyes, half-eyes, Quantile Dot plot.
 
-Suppose there is a donkey outside the classroom. I ask you what you observe and tell me what you see. You tell me that you see a horse. What kind of uncertainty is involved in your observation?
-
-what are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.
-
-*Name the two major classes of aesthetics. Continuous and Discrete.
-
-*What is the difference between factors and levels? Variables holding qualitative data are factors,and the different categories are called levels
-
-*Name the two major types of data and provide an example for each category.
-
-*What is the common name for variables holding data?
-
-*Provide examples of ordered and unordered data.
-
-*Name four different color scales and explain their most appropriate usage. 
-1-Qualitative color scale: a means to distinguish discrete items or groups that do not have an intrinsic order,such as different countries on a map or different manufacturers of a certain product.
-2-sequential color scale. Such a scale contains a sequence of colors that clearly indicate which values are larger or smaller than which other ones and (ii) how distant two specific values are from each other.
-3- Diverging color scale to visualize the deviation of data values in one of two directions relative to a neutral midpoint.
-4-
-
-Professional Data Scientists tend to avoid 3D plots in their visualizations. Why?
-
-Recall our class discussions on the kinds of data, for example, numerical vs. categorical.
-Describe an example dataset that could be classified as either numerical or categorical, depending on how it is represented.
-
-Is color a categorical/unordered or quantitative/ordered aesthetics?
-
-The combination of a set of position scales and their relative geometric arrangement is called a coordinate system.
-Coordinate systems allow us to assign unique IDs (a set of numbers called coordinates) to unique location on a map (think of Google map pins, for example).
-When we deal with data, these unique IDs are often assumed to be data values that we want to visualize and each coordinate axis corresponds to a single data attribute.
-Given this information, which one of the following three coordinates are valid and can be used to represent data or visualize the data attribute values?
-(Hint: Recall that the sole criterion for the validity of coordinates is the ability to assign unique set of numbers (data values) to unique points in the coordinates space (visualization space).)
-
-
-a. by looking st this graph we can conclude that the temparture of eart will increase and not decrese through time series.
+#12 position, size, shape, color, line size.
+#13 Continuous and discrete
+#14 Factors are variables that represent categorical data. Levels are categories or distinct values within a factor.
+#15 Continuous: size, color, width, area. discrete: size, color, width, area, shape, color, style.
+#16 Factors.
+#17 (ordered:) Quantitative, Numerical. unordered: Qualitative, categorical.
+#18. Sequential color scales are best for ordered data like temperature, diverging scales highlight deviations from a midpoint like profit, categorical scales distinguish discrete groups like political parties and cyclic scales represent periodic data like time of day.
+#19 3D perspective makes the plot difficult to read.
+#20 Exam scores represent numerical for actual scores or categorical for grade bins (A, B, C).
+#21 It can be both
+#22. All three are valid but the red one is the best one because it's the easiest to understand.
+#23. The purple and green ones are more accessible for color-blind people.
+#24. a. San Diego b. Chicago c. Death Valley d. Chicago
+25. 1-Color to distinguish categories. 2-Color to represent data values (sequential) 3Color to represent data values (diverging) 4-Color as a tool to highlight
+#26 Polar They  are best for visualizing periodic or cyclic data, like time-based patterns, directional data, or any dataset with a natural circular relationship between variables.
+#27 Color as a tool to highlight.
+#28 across the x-axis are diagonal and the bars are too close making it feel too crammed.
