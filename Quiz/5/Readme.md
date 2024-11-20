@@ -1,18 +1,25 @@
-Express the mathematical meaning of π(A|B) -"The probability of ( A ) given ( B )." Pi represents probability in a specific notation.The meaning of | is "given that," denotes conditional probability.
-#2)Name four major historical definitions of Probability.- Classical Probability, Bayesian Probability, Frequentist Probability and Propensity.
-#3 Which school(s) of thought define probability as the degree of belief? 1. Classical and Bayesian Probability.
-#4
-Which school(s) of thought define probability as the relative frequency of occurrence? Frequentist Probability and Propensity.
-#5
-Which probability definition(s), among those we have discussed in class, allow defining the Probability of the existence of God? Why?-Bayesian definition allows it to be based on degrees of belief or prior knowledge. It doesn't require empirical frequency or repeatable experiments.
-#6
-Is Bayesian Inference a subset of the Frequentist Inference methods? Why? No, Bayesian incorporates prior beliefs and updating probabilities with proof,Frequentist methods rely solely on observed data.
+This can be read as pi, A given B. Here, 'π' is pi, and '|' is given.
+2
+Name four major historical definitions of Probability.
+The four types of probability. classical probability,Bayesian probability, frequentist probability PRopensity probability.
+3
+Which school(s) of thought define probability as the degree of belief?
+Classical probability.
+4
+Which school(s) of thought define probability as the relative frequency of occurrence?
+frequentist probabilty
+5
+Which probability definition(s), among those we have discussed in class, allow defining the Probability of the existence of God? Why?
+Classical/ Bayesian probability.
+6
+Is Bayesian Inference a subset of the Frequentist Inference methods? Why?
+No, Bayesian Inference is not a subset of frequentist methods. Bayesian traets parameters as random.
 #7
 Which inference methodology allows the inclusion of expert knowledge in data analysis and decision-making? Bayesian inference
 #8
 Why is Bayesian Probability Theory more popular among physicists and engineers and Frequentist Probability Theory more popular among Biologists and Social Scientists? The methods experiments are one-off or irreproducible and they align with many problems in physics and engineering.
 #9
-When did the first modern definition of Probability appear in history? Mid-20th century.
+When did the first modern definition of Probability appear in history? 1700th .
 10
 What kinds of uncertainty exist in our experiments? confidence Strips,eyes, half-eyes, Quantile Dot plot.
 
@@ -28,8 +35,17 @@ What kinds of uncertainty exist in our experiments? confidence Strips,eyes, half
 #21 It can be both
 #22. All three are valid but the red one is the best one because it's the easiest to understand.
 #23. The purple and green ones are more accessible for color-blind people.
-#24. a. San Diego b. Chicago c. Death Valley d. Chicago
-25. 1-Color to distinguish categories. 2-Color to represent data values (sequential) 3Color to represent data values (diverging) 4-Color as a tool to highlight
-#26 Polar They  are best for visualizing periodic or cyclic data, like time-based patterns, directional data, or any dataset with a natural circular relationship between variables.
-#27 Color as a tool to highlight.
-#28 across the x-axis are diagonal and the bars are too close making it feel too crammed.
+#24 Houston
+Chicago
+San Diego
+San Diego
+
+a. Qualitative color scale b. sequential color scale c. Diverging color scale d. accent color scale
+
+Polar coordinates can be useful for data of a periodic nature, such that data values at one end of the scale can be logically joined to data values at the other end.
+
+Accent color scale.
+
+The graph/ visualization is not labelled well- No header for the graph. the diagonal representation of the movie names makes it ugly.
+
+a. Increase. b. 3 degrees hotter.
