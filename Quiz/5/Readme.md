@@ -1,11 +1,17 @@
-Express the mathematical meaning of π(A|B)
-Name four major historical definitions of Probability.
-Which school(s) of thought define probability as the degree of belief?
-Which school(s) of thought define probability as the relative frequency of occurrence?
-Which probability definition(s), among those we have discussed in class, allow defining the Probability of the existence of God? Why?
-Is Bayesian Inference a subset of the Frequentist Inference methods? Why?
-Which inference methodology allows the inclusion of expert knowledge in data analysis and decision-making?
-Why is Bayesian Probability Theory more popular among physicists and engineers and Frequentist Probability Theory more popular among Biologists and Social Scientists?
+Express the mathematical meaning of π(A|B) -"The probability of ( A ) given ( B )." The meaning of Pi is that it represents probability in a specific notation.The meaning of | is that it indicates "given that," denoting conditional probability.
+#2)Name four major historical definitions of Probability.- Classical Probability, Bayesian Probability, Frequentist Probability and Propensity.
+#3 Which school(s) of thought define probability as the degree of belief? 1. Classical and Bayesian Probability.
+#4
+Which school(s) of thought define probability as the relative frequency of occurrence? Frequentist Probability and Propensity.
+#5
+Which probability definition(s), among those we have discussed in class, allow defining the Probability of the existence of God? Why?-Bayesian definition allows it to be based on degrees of belief or prior knowledge. It doesn't require empirical frequency or repeatable experiments.
+#6
+Is Bayesian Inference a subset of the Frequentist Inference methods? Why? No, Bayesian incorporates prior beliefs and updating probabilities with proof,Frequentist methods rely solely on observed data without prior beliefs.
+#7
+Which inference methodology allows the inclusion of expert knowledge in data analysis and decision-making? Bayesian inference
+#8
+Why is Bayesian Probability Theory more popular among physicists and engineers and Frequentist Probability Theory more popular among Biologists and Social Scientists? The methods experiments are one-off or irreproducible and they align with many problems in physics and engineering.
+#9
 When did the first modern definition of Probability appear in history?
 What kinds of uncertainty exist in our experiments? confidence Strips,eyes, half-eyes, Quantile Dot plot.
 
