@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/806c6f68-c796-4e9a-81c2-001a00ba544a)
+
 2. Non-negativity, Normalization, Additivity.
 3. 
 position, size, shape, color, line size.
@@ -30,6 +32,8 @@ Heatcolor scale would be used for showing temperature on a map.
 What is wrong with the following visualization?- the graph lacks proper labelling and context. which makes it difficult to interpret.
 
 purple-green colors since many people are colorblind so its more accessible and easier to understand.
+
+![image](https://github.com/user-attachments/assets/fe76ed05-bd5d-4b6c-a7fb-d581732c0dd5)
 
 Classical Probability, Bayesian Probability, Frequentist Probability, Propensity.
 
