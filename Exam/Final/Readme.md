@@ -47,7 +47,7 @@ d. The rise is because of increased industrial activity during & after World War
 #21 Fortran
 
 #23 on paper
-#24 Deductive Reasoning: Derives specific conclusions from general premises.  Inductive Reasoning: Derives general conclusions from specific observations.
+#24 Deductive Reasoning: Derives specific conclusions from general premises.example: "All dogs have four legs, Fido is a dog, therefore Fido has four legs.  Inductive Reasoning: Derives general conclusions from specific observations. Every crow observed so far is black, therefore all crows are probably black."
 
 #25 truth tables are identical for all possible combinations of input variables.
 
