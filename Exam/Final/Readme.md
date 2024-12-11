@@ -10,11 +10,11 @@ d. specify elements in the data.
 
 #5 a. Valid. breathing inherently involves inhaling and exhaling.
 b. Valid. breathing and inhaling and exhaling are interchangeable.
-c. invalid. consciousness, and breathing would not be logical. we can breathe without being conscious.
-d. Invalid. consciousness is not equivalent to breathing. Because it requires brain activity not just breathing.
-e. invalid. rain implies clouds, but clouds do not always imply rain.
-f. invalid. rain does not guarantee the same conditions as cloudiness.
-#6 Experiment,Theory & Computation
+c. invalid. would not be logical. we can breathe without being conscious.
+d. Invalid. consciousness is not equivalent to breathing.
+e. invalid. clouds do not necessarily indicate rain, rain does imply clouds.
+f. invalid. Rain may not always indicate cloudy conditions.
+#6 Experiment Theory & Computation
 #7 No, Logical Implication: Physical Causation: 
 
 #8 a) No, because it's linear without the usage of the blue data.
@@ -24,15 +24,15 @@ d. The rise is because of increased industrial activity during & after World War
 
 #9 No, Representing probabilities with integer numbers would lose precision, as fractional values are not permitted by integers.
 
-#10 Degrees of plausibility are represented by real numbers. Qualitative correspondence with Consistency and sense.
+#10 Degrees of plausibility are represented by real numbers. Qualitative with Consistency and sense.
 
 #11 a. 1-10 b. 1-10 c. 2-10
 
-#12 No, Computers use floating-point numbers which can approximate real numbers but cannot represent all of them due to limited memory.
+#12 No, Computers use floating-point numbers we cannot perfectly represent real numbers on digital computers
 
 #13
 
-#14 Git is a program that can be downloaded while GitHub is a web platform that's built on Git and making it easier to collaborate with others.
+#14 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
 
 #15 Bayesian School of Probability allows the incorporation of expert knowledge through the use of prior probabilities.
 
